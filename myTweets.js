@@ -1,4 +1,4 @@
-/*module.exports = function(){ 
+module.exports = function(){ 
   var twitter = require("twitter");
   var tweet = process.argv[3];
   var keys = require("./keys.js");
